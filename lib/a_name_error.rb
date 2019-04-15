@@ -1,4 +1,4 @@
-def "hello world"
+def hello world
 
 puts hello_world
 end 
